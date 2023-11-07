@@ -1,7 +1,7 @@
 q_l = ["tomato is a vegetable or fruit?",
       "what is the capital of India?",
       "NG me kon sa course karaya jata hai?",
-      "when did COVID come to India?"]
+      "when did COVID come to India?"]  #taking a list of questions
 
 o_l = [["red color", "fruit", "vegetable", "flower"],
       ["patna", "bhopal", "delhi", "itanagar"],
